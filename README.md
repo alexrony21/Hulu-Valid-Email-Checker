@@ -9,6 +9,7 @@
 3. **Anti IP Ban**: Prevents your IP from being banned during checks.
 4. **Import Large List**: Handles large email lists without issues.
 5. **Unlimited Checking**: No limits on the number of checks you can perform.
+6. **Auto Proxy**: Get automatically proxy for each 20 emails checking from our server.
 
 ## Contact
 
